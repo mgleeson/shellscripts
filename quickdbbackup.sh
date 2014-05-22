@@ -4,6 +4,8 @@
 # A tiny mysql single db backup script 
 # which outputs date/time stampted sql 
 # files ideal for automation with cron
+# author: Matt Gleeson <matt@mattgleeson.net>
+# lastmodified: 23/05/2014
 ###
 # enter relevant values for the 3 variables below
 mysqlUsername="username"
